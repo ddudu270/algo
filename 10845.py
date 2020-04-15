@@ -10,7 +10,7 @@
 #     elif list[0] == 'pop':
 #         if queue != []:
 #             print(queue.pop(0))
-#         else:g
+#         else:
 #             print(-1)
 #     elif list[0] == 'front':
 #         if queue == []:
