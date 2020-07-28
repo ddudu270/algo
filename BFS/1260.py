@@ -11,7 +11,7 @@ def bfs(graph, root):
             visited.append(node)
             need_visit.extend(graph[node])
 
-    return visited
+    return visited #
 
 
 def dfs(graph, root):
