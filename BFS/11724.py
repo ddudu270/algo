@@ -2,7 +2,7 @@ import sys
 from _collections import deque
 
 
-def bfs(v):
+def bfs(v): #
     q = deque([v])
     visited[v] = True
     while q:
